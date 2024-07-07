@@ -19,6 +19,7 @@ Install the necessary Python libraries:
 
 ```bash
 pip install pandas numpy dash plotly scipy
+```
 
 ### Usage
 
